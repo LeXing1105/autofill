@@ -19,5 +19,7 @@ public class MainActivity extends AppCompatActivity {
         autoCompleteTextView.setAdapter(arrayAdapter);
         autoCompleteTextView.setThreshold(1);
 
+        String name = "";
+
     }
 }
